@@ -3,5 +3,5 @@
     "Sorta",
     "Sneaky",
     "Xeno",
-    "Adam",
+    "Adam"
 ]}
