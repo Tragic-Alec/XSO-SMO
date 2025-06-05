@@ -1,0 +1,7 @@
+{"staffNames": [
+    "Daat",
+    "Sorta",
+    "Sneaky",
+    "Xeno",
+    "Adam",
+]}
