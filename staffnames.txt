@@ -2,6 +2,5 @@
     "Daat",
     "Sorta",
     "Sneaky",
-    "Xeno",
-    "Tragic"
+    "Xeno"
 ]}
