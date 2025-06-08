@@ -1,8 +1,8 @@
-{"Writer:118"
-"Easel:55"
-"Board":"150"
-"Jam":"54"
-"Potion":"78"
-"Gnome":"149"
-"Pinata":"150"
+{"Writer:118",
+"Easel:55",
+"Board":"150",
+"Jam":"54",
+"Potion":"78",
+"Gnome":"149",
+"Pinata":"150",
 "Pone":"144"}
