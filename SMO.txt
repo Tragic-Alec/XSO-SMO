@@ -1,5 +1,5 @@
-{"Writer:118",
-"Easel:55",
+{"Writer":"118",
+"Easel":"55",
 "Board":"150",
 "Jam":"54",
 "Potion":"78",
