@@ -1,6 +1,0 @@
-{"staffNames": [
-    "Daat",
-    "Sorta",
-    "Sneaky",
-    "Xeno"
-]}
