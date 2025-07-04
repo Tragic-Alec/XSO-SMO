@@ -1,13 +1,13 @@
 {
-    "date": "SMO - July 3th",
+    "date": "SMO - July 4th",
     "SMO": {
-        "Writer":"150",
-        "Easel":"65",
+        "Writer":"75",
+        "Easel":"141",
         "Board":"150",
         "Jam":"50",
-        "Potion":"69",
-        "Gnome":"149",
-        "Pinata":"149",
-        "Phone":"144"
+        "Potion":"62",
+        "Gnome":"144",
+        "Pinata":"148",
+        "Phone":"148"
     }
 }
