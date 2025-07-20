@@ -2,7 +2,7 @@
     "date": "SMO - July 20th",
     "SMO": {
         "Writer":"55",
-        "Easel":80",
+        "Easel":"80",
         "Board":"150",
         "Jam":"89",
         "Potion":"148",
