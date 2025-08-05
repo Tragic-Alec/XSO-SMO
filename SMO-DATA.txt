@@ -1,5 +1,5 @@
 {
-    "date": "SMO - August 4th",
+    "date": "SMO - August 5th",
     "SMO": {
         "Writer":"138",
         "Easel":"55",
