@@ -2,7 +2,7 @@
     "date": "SMO - September 15th",
     "SMO": {
         "Writer":"144",
-        "Easel":"166",
+        "Easel":"66",
         "Board":"146",
         "Jam":"51",
         "Potion":"66",
