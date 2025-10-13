@@ -1,5 +1,5 @@
 {
-    "date": "SMO x I'M TIRED",
+    "date": "SMO X I'M TIRED",
     "SMO": {
         "Writer":"69",
         "Easel":"69",
